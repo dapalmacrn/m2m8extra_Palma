@@ -1,0 +1,137 @@
+@media screen and (max-width: 480px) {
+  body{
+    margin: 0;
+    padding: 0;
+    background-color:white;
+    color:black;
+    font-family: 'Oswald', sans-serif;
+
+  }
+
+
+
+
+
+
+.tips  img{
+width:120px;
+height: 100px;
+
+}
+
+.more img{
+  width:120px;
+  height: 100px;
+
+}
+
+.reson img{
+  width:120px;
+  height: 100px;
+
+}
+
+
+
+  }
+  #fondo{
+    width:100%;
+    height:90%;
+    border:80px #2EFEF7 solid;
+  }
+
+  #fondo img {
+    width:30%;
+    height:20%;
+  }
+
+
+  h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+
+  }
+  h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    margin-top:-60px;
+    margin-left:113px;
+    position: absolute;
+  }
+  h3{
+    font-family: 'Oswald', sans-serif;
+    font-size: 44px;
+  }
+  h4{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+  }
+
+  h6{
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+    margin-top: -65px;
+    margin-left: 142px;
+    position: absolute;
+  }
+
+  p{
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
+
+  }
+
+  h5{
+    font-family: 'Oswald', sans-serif;
+    font-size: 12px;
+
+  }
+
+@keyframes balena{
+    0%   { opacity: 0; }
+    100% { opacity: 9; }
+}
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
